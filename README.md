@@ -1,4 +1,4 @@
-project is available
+project is available here
 Live : https://dineshpaudel1.github.io/kanban-board/
 
 Development:
